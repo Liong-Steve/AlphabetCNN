@@ -1,0 +1,11 @@
+[strings]
+# 训练集原始文件
+resource_csv_data = train_data/A_Z Handwritten Data.csv
+
+# 处理后的训练集
+x_train_path = train_data/x_train.npy
+y_train_path = train_data/y_train.npy
+
+[ints]
+# 配置批大小
+batch_size = 32

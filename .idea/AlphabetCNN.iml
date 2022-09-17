@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/tensorflow_datasets/downloads" />
+      <excludeFolder url="file://$MODULE_DIR$/model_data" />
+      <excludeFolder url="file://$MODULE_DIR$/tensorflow_datasets" />
+      <excludeFolder url="file://$MODULE_DIR$/train_data" />
+      <excludeFolder url="file://$MODULE_DIR$/predict_img" />
+      <excludeFolder url="file://$MODULE_DIR$/icon" />
+      <excludeFolder url="file://$MODULE_DIR$/imgs" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (TF2.1)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+</module>
