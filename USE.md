@@ -49,7 +49,7 @@
 
 5 PyCharm配置环境
 
->  
+>  进入Setting，选择解释器，选择导入创建的conda环境中对应的python.exe文件
 
 6  your generated code is out of date and must be regenerated with protoc >= 3.19.0
 
@@ -132,4 +132,9 @@ pip install matplotlib
 
 
 
-11 
+11 WARNING:absl:Found a different version 3.0.0 of dataset emnist in data_dir ../tensorflow_datasets. Using currently defined version 1.0.1.
+
+```
+pip install tensorflow-datasets==4.5.2
+```
+
