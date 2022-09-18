@@ -138,3 +138,11 @@ pip install matplotlib
 pip install tensorflow-datasets==4.5.2
 ```
 
+
+
+12 Internal: Invoking GPU asm compilation is supported on Cuda non-Windows platforms only
+Relying on driver to perform ptx compilation. This message will be only logged once.
+
+
+
+13 The calling iterator did not fully read the dataset being cached
